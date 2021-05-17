@@ -4,9 +4,11 @@ This is a list of algorithm problems.
 
 ## LeetCode
 - LeetCode #1: Two Sum
+- LeetCode #2: Add Two Numbers
 - LeetCode #5: Longest Palindrome Substring
 - LeetCode #15: 3Sum
 - LeetCode #21: Merge Two Sorted List
+- LeetCode #24: Swap Nodes in Pairs
 - LeetCode #42: Trapping Rain Water
 - LeetCode #49: Group Anagrams
 - LeetCode #121: Best Time to Buy and Sell Stock
