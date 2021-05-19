@@ -11,11 +11,13 @@ This is a list of algorithm problems.
 - LeetCode #24: Swap Nodes in Pairs
 - LeetCode #42: Trapping Rain Water
 - LeetCode #49: Group Anagrams
+- LeetCode #92: Reverse Linked List II
 - LeetCode #121: Best Time to Buy and Sell Stock
 - LeetCode #125: Valid Palindrome
 - LeetCode #206: Reverse Linked List
 - LeetCode #234: Palindrome Linked List
 - LeetCode #238: Product of Array Except Self
+- LeetCode #328: Odd Even Linked List
 - LeetCode #344: Reverse String
 - LeetCode #561: Array Partition I
 - LeetCode #819: Most Common Word
